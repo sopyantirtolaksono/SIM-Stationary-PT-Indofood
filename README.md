@@ -1,4 +1,4 @@
-# SIM Stationary
+# SIM Stationary PT Indofood CBP Sukses Makmur Tbk
 ![logo](https://github.com/sopyantirtolaksono/SIM-Stationary-PT-Indofood/blob/main/src/dist/img/demo.PNG)
 
 ## Tentang
