@@ -1,5 +1,5 @@
 # SIM Stationary
-![logo](https://github.com/sopyantirtolaksono/SIM-Stationary-PT-Indofood/blob/main/dist/img/demo.PNG)
+![logo](https://github.com/sopyantirtolaksono/SIM-Stationary-PT-Indofood/blob/main/src/dist/img/demo.PNG)
 
 ## Tentang
 - Aplikasi ini merupakan sebuah sistem informasi managemen stationary (SIM) berbasis web, sebagai bahan tugas akhir dengan studi kasus pada PT. Indofood CBP Sukses Makmur Tbk. Divisi Noodle Semarang
